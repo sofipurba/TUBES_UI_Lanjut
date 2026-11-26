@@ -80,7 +80,6 @@ docs/                        requirement, sprint, tim, user flow, komponen, API,
 - [06 Integrasi API](docs/06-api.md)
 - [07 Testing & evaluasi](docs/07-testing.md)
 - [Backlog issue](docs/backlog.md)
-- [Deklarasi penggunaan AI](docs/ai-declaration.md)
 
 ## 6. Dipakai sebagai template portofolio pribadi
 
